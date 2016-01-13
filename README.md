@@ -1,1 +1,3 @@
-erlang-samples
+# Erlang Samples
+
+Some Erlang coding playground ... 
