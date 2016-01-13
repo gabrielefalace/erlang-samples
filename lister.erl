@@ -3,6 +3,7 @@
 
 % public functions
 
+% given a list of numbers, it returns a list with each number doubled.
 double([]) -> [];
 double(List) -> d(List, []).
 
